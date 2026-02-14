@@ -1,3 +1,5 @@
+<img width="200" height="200" alt="jule-gamedev-logo" src="https://github.com/user-attachments/assets/b81e6740-22a8-4ed4-bb0f-0d6b460736d0" />
+
 # jule-gamedev
 
 This organization was made by me, [SabeDoesThings](https://github.com/SabeDoesThings), for any easy for him and maybe other to put in language bindings for the [Jule](https://jule.dev/) programming language for anything game development related.
@@ -14,3 +16,4 @@ This organization was made by me, [SabeDoesThings](https://github.com/SabeDoesTh
 - [ ] [GLFW](https://github.com/glfw/glfw)
 - [ ] [MicroUI](https://github.com/rxi/microui)
 - [ ] [STBI](https://github.com/nothings/stb/blob/master/stb_image.h)
+
